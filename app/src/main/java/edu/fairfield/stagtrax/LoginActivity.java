@@ -26,15 +26,11 @@ public class LoginActivity extends AppCompatActivity {
                     email.setError("Email is not valid!");
                 } else {
                     if (password.getText().toString().isEmpty()) {
-                        password.setError("Password is empty!");
-                        //Show register user activity
-
-                        Intent intent = new Intent(this, RegisterActivity.class);
+                        Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
                         intent.putExtra("Email", email.getText().toString());
                         startActivity(intent);
-
                     } else {
-                        password.setError("Password is not empty");
+                        password.setError("Login is not implemented!");
                         //Validate user then show main activity
                     }
                 }

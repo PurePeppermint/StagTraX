@@ -2,12 +2,13 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/login_layout"
+    android:id="@+id/login_root"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     tools:context="edu.fairfield.stagtrax.LoginActivity">
 
     <LinearLayout
+        android:id="@+id/login_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -50,5 +51,4 @@
             tools:layout_editor_absoluteX="159dp"
             tools:layout_editor_absoluteY="153dp" />
     </LinearLayout>
-
 </android.support.constraint.ConstraintLayout>

@@ -6,4 +6,16 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login or Register</string>
+
+    <!-- Register Strings -->
+    <string name="confirm_password">Confirm Password</string>
+    <string name="graduation_year">Expected Graduation Year</string>
+    <string name="birthday">Birthday</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string-array name="user_type">
+        <item>Student</item>
+        <item>Faculty</item>
+    </string-array>
+
 </resources>

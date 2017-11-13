@@ -18,4 +18,9 @@
         <item>Faculty</item>
     </string-array>
 
+    <!-- Navigation -->
+    <string name="title_home">home</string>
+    <string name="title_results">results</string>
+    <string name="title_settings">settings</string>
+
 </resources>

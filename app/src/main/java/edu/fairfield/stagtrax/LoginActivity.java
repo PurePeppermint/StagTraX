@@ -28,13 +28,14 @@ public class LoginActivity extends AppCompatActivity {
                 } else {
                     email.setError(null);
                     if (password.getText().toString().isEmpty()) {
-                        password.setError(null);
                         Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
                         intent.putExtra("email", email.getText().toString());
                         startActivity(intent);
                     } else {
                         //Toast.makeText(getBaseContext(), "Login is not implemented!", Toast.LENGTH_LONG).show();
-                        //TODO Validate user then show main activity
+                        //TODO Validate user
+                        Intent intent = new Intent(LoginActivity.this, HomeActivity.class);
+                        startActivity(intent);
                     }
                 }
             }

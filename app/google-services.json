@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497818578165",
+    "project_id": "pelagic-pager-186016"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497818578165:android:922a03befb9e2597",
+        "android_client_info": {
+          "package_name": "edu.fairfield.stagtrax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497818578165-p8uf86beedkld0pp4mlemo7t4fop6011.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "497818578165-cto7p246k0rto95qste1ttbot36hv3tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.fairfield.stagtrax",
+            "certificate_hash": "54104655bd35c7cd18dcee546607256c81dc3d44"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUBc3bDMfStQr4xGelc898_F-6XcN6t8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

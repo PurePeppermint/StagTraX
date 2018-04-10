@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186607694232",
+    "firebase_url": "https://web-test1-89db5.firebaseio.com",
+    "project_id": "web-test1-89db5",
+    "storage_bucket": "web-test1-89db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186607694232:android:922a03befb9e2597",
+        "android_client_info": {
+          "package_name": "edu.fairfield.stagtrax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186607694232-efm3i41si7cbek52qd8g53vlr7tbgt7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkLAJidjzy_OxrG-dwzUBgtVgxDzGeTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

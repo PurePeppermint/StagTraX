@@ -108,6 +108,11 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "stagtrax.Droid.dll" comes first in this list. */
 		"stagtrax.Droid.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.Geolocator.Abstractions.dll",
+		"Plugin.Geolocator.dll",
+		"Plugin.Permissions.Abstractions.dll",
+		"Plugin.Permissions.dll",
 		"stagtrax.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

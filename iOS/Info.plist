@@ -44,5 +44,7 @@
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>XSLaunchImageAssets</key>
 	<string>Assets.xcassets/LaunchImage.launchimage</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location is required to find out where you are.</string>
 </dict>
 </plist>

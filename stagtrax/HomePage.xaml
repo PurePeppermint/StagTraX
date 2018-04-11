@@ -8,6 +8,7 @@
                 IsShowingUser="true" 
                 MapType="Street"
             />
+            <Button x:Name="SaveLocation" Text="Save Location" Clicked="UpdateLocation" />
             <Button x:Name="SignOutButton" Text="SignOut" Clicked="SignOut" />
         </StackLayout>
     </ContentPage.Content>

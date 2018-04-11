@@ -13,7 +13,7 @@ namespace stagtrax.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            //FormsMaps.Init();
+            Xamarin.FormsMaps.Init();
 
             Firebase.Core.App.Configure();
 

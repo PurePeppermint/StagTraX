@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{5512B4E6-DE87-4A45-9B2E-9932FD3D1552}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="stagtrax/HomePage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StagTraX Status">
     <Files>
-      <File FileName="iOS/AppDelegate.cs" Line="19" Column="13" />
-      <File FileName="Droid/MainActivity.cs" Line="23" Column="35" />
-      <File FileName="stagtrax/HomePage.xaml" Line="10" Column="1" />
-      <File FileName="stagtrax/HomePage.xaml.cs" Line="13" Column="35" />
+      <File FileName="iOS/AppDelegate.cs" Line="21" Column="13" />
+      <File FileName="stagtrax/HomePage.xaml" Line="16" Column="1" />
+      <File FileName="stagtrax/stagtraxPage.xaml.cs" Line="83" Column="1" />
+      <File FileName="packages/Xam.Plugin.Geolocator.4.2.0/readme.txt" Line="17" Column="1" />
+      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="24" Column="52" />
+      <File FileName="StagTraX Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

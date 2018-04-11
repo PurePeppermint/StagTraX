@@ -29,5 +29,7 @@ namespace stagtrax.Droid
 
             LoadApplication(new App());
         }
+
+
     }
 }

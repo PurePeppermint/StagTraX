@@ -13,6 +13,13 @@ namespace stagtrax
             InitializeComponent();
             firebaseAuthenticator = DependencyService.Get<IFirebaseAuthenticator>();
             SetUI(firebaseAuthenticator.IsLoggedIn());
+
+        }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            SetUI(firebaseAuthenticator.IsLoggedIn());
         }
 
         private void SignIn(object sender, System.EventArgs e)

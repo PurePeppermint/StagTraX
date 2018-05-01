@@ -34,6 +34,10 @@
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Diagnostics.Tools.dll
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.Forms.Maps.dll
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Resources.ResourceManager.dll
+/Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Plugin.Geolocator.Abstractions.dll
+/Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Plugin.Permissions.Abstractions.dll
+/Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Plugin.Geolocator.dll
+/Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Plugin.Permissions.dll
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Firebase.Auth.dll
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Firebase.Core.dll
 /Users/wmilkovic/github/StagTraX/iOS/bin/iPhoneSimulator/Debug/stagtrax.iOS.app:/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Firebase.InstanceID.dll

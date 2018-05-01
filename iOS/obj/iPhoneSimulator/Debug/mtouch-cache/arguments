@@ -18,6 +18,10 @@
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.Core.4.0.13/lib/Xamarin.iOS10/Firebase.Core.dll \
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.InstanceID.2.0.8/lib/Xamarin.iOS10/Firebase.InstanceID.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.Abstractions.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.Abstractions.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.dll \
 	-r=/Users/wmilkovic/github/StagTraX/stagtrax/bin/Debug/stagtrax.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -170,6 +174,10 @@
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.Auth.4.4.1/lib/Xamarin.iOS10/Firebase.Auth.dll \
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.Core.4.0.13/lib/Xamarin.iOS10/Firebase.Core.dll \
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.InstanceID.2.0.8/lib/Xamarin.iOS10/Firebase.InstanceID.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.Abstractions.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.Abstractions.dll \
+	-r=/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.dll \
 	-r=/Users/wmilkovic/github/StagTraX/stagtrax/bin/Debug/stagtrax.dll \
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Forms.2.5.1.444934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r=/Users/wmilkovic/github/StagTraX/packages/Xamarin.Forms.Maps.2.5.1.444934/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll \

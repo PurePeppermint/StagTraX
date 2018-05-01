@@ -1,4 +1,9 @@
 FormsViewGroup
+Plugin.CurrentActivity
+Plugin.Geolocator.Abstractions
+Plugin.Geolocator
+Plugin.Permissions.Abstractions
+Plugin.Permissions
 stagtrax
 System.Runtime
 Xamarin.Android.Arch.Core.Common
@@ -35,8 +40,3 @@ Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Maps
 Xamarin.GooglePlayServices.Tasks
 System.Diagnostics.Tools
-Plugin.CurrentActivity
-Plugin.Geolocator.Abstractions
-Plugin.Geolocator
-Plugin.Permissions.Abstractions
-Plugin.Permissions

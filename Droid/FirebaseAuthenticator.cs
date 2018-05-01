@@ -56,7 +56,7 @@ namespace stagtrax.Droid
             try
             {
                 FirebaseAuth.Instance.SignInWithEmailAndPasswordAsync(email, password);
-                Thread.Sleep(1000);
+                Thread.Sleep(2000);
             }
             catch (Exception e)
             {

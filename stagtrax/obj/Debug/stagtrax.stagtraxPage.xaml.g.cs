@@ -11,7 +11,7 @@
 namespace stagtrax {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/wmilkovic/Projects/stagtrax/stagtrax/stagtraxPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/wmilkovic/github/StagTraX/stagtrax/stagtraxPage.xaml")]
     public partial class stagtraxPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

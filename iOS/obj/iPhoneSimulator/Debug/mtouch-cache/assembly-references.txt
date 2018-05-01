@@ -34,6 +34,10 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
 /Users/wmilkovic/github/StagTraX/packages/Xamarin.Forms.Maps.2.5.1.444934/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Resources.ResourceManager.dll
+/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.Abstractions.dll
+/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.Abstractions.dll
+/Users/wmilkovic/github/StagTraX/packages/Xam.Plugin.Geolocator.4.2.0/lib/Xamarin.iOS10/Plugin.Geolocator.dll
+/Users/wmilkovic/github/StagTraX/packages/Plugin.Permissions.2.2.1/lib/Xamarin.iOS10/Plugin.Permissions.dll
 /Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.Auth.4.4.1/lib/Xamarin.iOS10/Firebase.Auth.dll
 /Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.Core.4.0.13/lib/Xamarin.iOS10/Firebase.Core.dll
 /Users/wmilkovic/github/StagTraX/packages/Xamarin.Firebase.iOS.InstanceID.2.0.8/lib/Xamarin.iOS10/Firebase.InstanceID.dll

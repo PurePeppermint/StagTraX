@@ -6,8 +6,8 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/wmilkovic/Projects/stagtrax/iOS/obj/iPhoneSimulator/Debug/actool/bundle/LaunchImage-700-568h@2x.png</string>
-			<string>/Users/wmilkovic/Projects/stagtrax/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+			<string>/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/actool/bundle/LaunchImage-700-568h@2x.png</string>
+			<string>/Users/wmilkovic/github/StagTraX/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

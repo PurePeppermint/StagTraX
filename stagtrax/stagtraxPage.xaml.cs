@@ -1,5 +1,4 @@
 ﻿using Xamarin.Forms;
-using System.Diagnostics;
 using System.Threading.Tasks;
 
 namespace stagtrax
@@ -57,14 +56,6 @@ namespace stagtrax
             if (SignedIn)
             {
                 Navigation.PushAsync(new HomePage(firebaseAuthenticator));
-            //    this.FindByName<Label>("WelcomeLabel").Text = "Signed in as " + firebaseAuthenticator.GetCurrentUserEmail();
-            //    this.FindByName<Entry>("UsernameEntry").Text = "";
-            //    this.FindByName<Entry>("UsernameEntry").IsVisible = false;
-            //    this.FindByName<Entry>("PasswordEntry").Text = "";
-            //    this.FindByName<Entry>("PasswordEntry").IsVisible = false;
-            //    this.FindByName<Button>("SignInButton").IsVisible = false;
-            //    this.FindByName<Button>("RegisterButton").IsVisible = false;
-            //    this.FindByName<Button>("SignOutButton").IsVisible = true;
             }
             else
             {

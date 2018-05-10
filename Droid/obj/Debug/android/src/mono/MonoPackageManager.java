@@ -109,9 +109,7 @@ class MonoPackageManager_Resources {
 		"stagtrax.Droid.dll",
 		"FormsViewGroup.dll",
 		"Plugin.CurrentActivity.dll",
-		"Plugin.Geolocator.Abstractions.dll",
 		"Plugin.Geolocator.dll",
-		"Plugin.Permissions.Abstractions.dll",
 		"Plugin.Permissions.dll",
 		"stagtrax.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
@@ -147,6 +145,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
 		"Xamarin.GooglePlayServices.Tasks.dll",
+		"Plugin.Permissions.Abstractions.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

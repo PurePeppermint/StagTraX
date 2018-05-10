@@ -13,7 +13,7 @@ public class GoogleMap_OnMyLocationClickListenerImplementor
 		__md_methods = 
 			"n_onMyLocationClick:(Landroid/location/Location;)V:GetOnMyLocationClick_Landroid_location_Location_Handler:Android.Gms.Maps.GoogleMap/IOnMyLocationClickListenerInvoker, Xamarin.GooglePlayServices.Maps\n" +
 			"";
-		mono.android.Runtime.register ("Android.Gms.Maps.GoogleMap+IOnMyLocationClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", GoogleMap_OnMyLocationClickListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Gms.Maps.GoogleMap+IOnMyLocationClickListenerImplementor, Xamarin.GooglePlayServices.Maps", GoogleMap_OnMyLocationClickListenerImplementor.class, __md_methods);
 	}
 
 
@@ -21,7 +21,7 @@ public class GoogleMap_OnMyLocationClickListenerImplementor
 	{
 		super ();
 		if (getClass () == GoogleMap_OnMyLocationClickListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Gms.Maps.GoogleMap+IOnMyLocationClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Gms.Maps.GoogleMap+IOnMyLocationClickListenerImplementor, Xamarin.GooglePlayServices.Maps", "", this, new java.lang.Object[] {  });
 	}
 
 

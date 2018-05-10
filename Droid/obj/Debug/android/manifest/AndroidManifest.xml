@@ -14,9 +14,9 @@
   <uses-feature android:name="android.hardware.location" android:required="false" />
   <uses-feature android:name="android.hardware.location.gps" android:required="false" />
   <uses-feature android:name="android.hardware.location.network" android:required="false" />
-  <application android:label="stagtrax" android:name="md557b0e72b4f12038ca7688f1a001d48bf.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="stagtrax" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBKpvm4S2dJza4MpKBGe1_punhBCI1q2ZA" />
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="stagtrax.Droid" android:theme="@style/MyTheme" android:name="md557b0e72b4f12038ca7688f1a001d48bf.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="stagtrax.Droid" android:theme="@style/MyTheme" android:name="md5c4d17ec1b03775d89d2d15c867b3f99f.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

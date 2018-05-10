@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Firebase.Auth;
 using Foundation;
 using stagtrax.iOS;
@@ -8,7 +7,7 @@ using System.Diagnostics;
 [assembly: Xamarin.Forms.Dependency(typeof(FirebaseAuthenticator))]
 namespace stagtrax.iOS
 {
-    public class FirebaseAuthenticator : IFirebaseAuthenticator
+	public class FirebaseAuthenticator : IFirebaseAuthenticator
     {
         public FirebaseAuthenticator()
         {
@@ -40,17 +39,26 @@ namespace stagtrax.iOS
 
         public async Task<bool> LoginWithEmailPassword(string email, string password)
         {
-            var user = await Auth.DefaultInstance.SignInAsync(email, password);
-            Debug.WriteLine("Did I wait?");
-            if (user != null)
+			try
+			{
+    			var user = Auth.DefaultInstance.SignInAsync(email, password);
+				//await Task.Delay(2000);
+    			Debug.WriteLine("LoginWithEmailPassword getting results");
+                if (user != null)
+                {
+					Debug.WriteLine("true!");
+                    return true;
+                }
+                else
+                {
+                    Debug.WriteLine("false!");
+                    return false;
+                }
+			}
+            catch (NSErrorException ex)
             {
-                Debug.WriteLine("Probably yes!");
-                return true;
-            }
-            else
-            {
-                Debug.WriteLine("Probably not!");
-                return false;
+				Debug.WriteLine("LoginWithEmailPassword exception:"+ex.ToString());
+				return false;
             }
         }
 
@@ -62,16 +70,17 @@ namespace stagtrax.iOS
 
         public async Task<bool> RegisterWithEmailPassword(string email, string password)
         {
-            var user = await Auth.DefaultInstance.CreateUserAsync(email, password);
-            Debug.WriteLine("Did I wait?");
+            var user = Auth.DefaultInstance.CreateUserAsync(email, password);
+			//await Task.Delay(2000);
+			Debug.WriteLine("RegisterWithEmailPassword getting results");
             if (user != null)
             {
-                Debug.WriteLine("Probably yes!");
+                Debug.WriteLine("true!");
                 return true;
             }
             else
             {
-                Debug.WriteLine("Probably not!");
+                Debug.WriteLine("false!");
                 return false;
             }
         }

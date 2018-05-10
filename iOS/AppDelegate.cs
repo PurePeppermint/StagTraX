@@ -15,7 +15,7 @@ namespace stagtrax.iOS
             global::Xamarin.Forms.Forms.Init();
             Xamarin.FormsMaps.Init();
 
-            Firebase.Core.App.Configure();
+			Firebase.Core.App.Configure();
 
             LoadApplication(new App());
 

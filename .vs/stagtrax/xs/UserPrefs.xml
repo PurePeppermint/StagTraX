@@ -1,17 +1,10 @@
-﻿<Properties StartupConfiguration="{5512B4E6-DE87-4A45-9B2E-9932FD3D1552}|Default">
+﻿<Properties StartupConfiguration="{13457403-75D9-4FDC-9BDD-A8F37B466B7F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StagTraX Status">
     <Files>
+      <File FileName="iOS/FirebaseAuthenticator.cs" Line="51" Column="18" />
+      <File FileName="stagtrax/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
       <File FileName="iOS/AppDelegate.cs" Line="4" Column="1" />
-      <File FileName="stagtrax/HomePage.xaml" Line="11" Column="94" />
-      <File FileName="stagtrax/stagtraxPage.xaml.cs" Line="83" Column="1" />
-      <File FileName="packages/Xam.Plugin.Geolocator.4.2.0/readme.txt" Line="17" Column="1" />
-      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="24" Column="52" />
-      <File FileName="stagtrax/IFirebaseAuthenticator.cs" Line="1" Column="1" />
-      <File FileName="Droid/FirebaseAuthenticator.cs" Line="73" Column="14" />
-      <File FileName="stagtrax/HomePage.xaml.cs" Line="65" Column="14" />
-      <File FileName="stagtrax/Utils.cs" Line="5" Column="1" />
-      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="stagtrax/obj/Debug/stagtrax.HomePage.xaml.g.cs" Line="1" Column="1" />
       <File FileName="StagTraX Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -20,7 +13,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.stagtrax.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_xl_oreo" />
-  <MonoDevelop.Ide.ItemProperties.stagtrax.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA55DFEA-91C3-4666-B0FD-F92AF762EB9A" automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.stagtrax.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_XL_Oreo_" />
+  <MonoDevelop.Ide.ItemProperties.stagtrax.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.96C38542-F1F3-4DF1-9CCD-85CDD7C16D34" automaticSigning="False" />
   <MultiItemStartupConfigurations />
 </Properties>
